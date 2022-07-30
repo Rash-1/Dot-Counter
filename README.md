@@ -9,7 +9,6 @@ Your Text Can Be in Both English And Persian(Farsi)
 </h4>
 
 
-
-###Any question:
-Email  : arashmd81@gmail.com;
- <a href="https://www.instagram.com/__r.ash__">Instagram</a>
+<h2>Contact me:</h2>
+Email  : arashmd81@gmail.com;<br>
+<a href="https://www.instagram.com/__r.ash__">Instagram</a>
